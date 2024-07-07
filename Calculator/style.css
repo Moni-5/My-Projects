@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100&display=swap');
+
+html,body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Playwrite NG Modern', sans-serif;
+}
+
+.button{
+  width:66px;
+  font-size: 20px;
+  padding:25px;
+  margin:0 3px;
+  color: grey;
+  border:2px solid black;
+  border-radius:10px;
+  cursor:pointer;
+}
+.row{
+  margin:5px 0;
+}
+.row input{
+  width:290px;
+  font-size:25px;
+  margin:0;
+  padding:20px 15px;
+  border:2px solid black;
+  border-radius:5px;
+}
